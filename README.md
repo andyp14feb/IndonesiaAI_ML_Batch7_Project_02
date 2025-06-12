@@ -1,6 +1,12 @@
 # IndonesiaAI_ML_Batch7_Project_02
 This project focuses on building a machine learning model to detect fraudulent transactions using the fraudTrain.csv dataset. By combining data preprocessing, feature engineering, and the AdaBoost algorithm, the model learns to distinguish between normal and fraudulent patterns.
 
+Slide / Presentation :
+
+- [IndonesiaAI_ML_Batch7_Project_02_Adaboost for Fraud Detection - Google Slide](https://docs.google.com/presentation/d/e/2PACX-1vRv2txUsanGm49LLrG0OXtI1oJe6KuKmhALjN6r4lZM0bGAYXuR3TboUg9n2x0gu1NYeXYZfLwQxuGs/pub?start=true&loop=true&delayms=3000&slide=id.g332503248ef_0_515)
+- [IndonesiaAI_ML_Batch7_Project_02/IndonesiaAI_ML_Batch7_Project_02_Adaboost for Fraud Detection.pdf at main · andyp14feb/IndonesiaAI_ML_Batch7_Project_02 · GitHub](https://github.com/andyp14feb/IndonesiaAI_ML_Batch7_Project_02/blob/main/IndonesiaAI_ML_Batch7_Project_02_Adaboost%20for%20Fraud%20Detection.pdf)
+
+
 # AI Generated Summary of the JupyterNotebook Fraud Detection Project file :
 
 This notebook implements a fraud detection pipeline using credit card transaction data and AdaBoost + RandomForest modeling.
